@@ -1,0 +1,35 @@
+*{
+    background-color: white;
+    color: rgb(223, 86, 86);
+}
+
+.Chead{
+    background-color: #355070 ;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+    justify-content: space-between;
+}
+
+
+.Calender {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto;
+ 
+
+}
+.grid-item {
+  background-color: #eaac8b ;
+  border: 1px solid black;
+  font-size: 30px;
+  text-align: center;
+  font-size: 20px;
+ 
+}
+.day{
+    background-color: #6d597a;
+    text-align: center;
+    padding: 20px;  
+}
+
